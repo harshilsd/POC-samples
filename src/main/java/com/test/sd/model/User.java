@@ -3,11 +3,12 @@ package com.test.sd.model;
 public class User {
 	private String userName;
 
-	public String getUserName() {
+	public String getUserName(){
 		return userName;
 	}
 
-	public void setUserName(String userName) {
+	public void setUserName(String userName){
 		this.userName = userName;
 	}
+
 }
